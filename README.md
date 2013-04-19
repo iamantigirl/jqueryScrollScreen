@@ -39,4 +39,8 @@ will cause the screen to scroll only horizontally so that #my_div is positioned 
 
 ####License?
 
+<<<<<<< HEAD
 Help yourself :)
+=======
+Help yourself :)
+>>>>>>> 3bea4c6769160282ce51fdb663c5481721650594

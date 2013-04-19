@@ -1,5 +1,5 @@
 (function($){  
-	$.fn.scrollScreen = function(options) {  
+	$.fn.scrollScreenTo = function(options) {  
 		var settings = $.extend( {
 			'speed'                     : 400,
 			'easing'                    : 'swing',

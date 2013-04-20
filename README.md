@@ -37,6 +37,6 @@ will cause the screen to scroll only horizontally so that #my_div is positioned 
 
 .scrollScreen() will not work unless your document has a proper doc type declaration such as <!DOCTYPE HTML>
 
-####License?
+####License
 
-Help yourself :)
+MIT - See license.txt file
